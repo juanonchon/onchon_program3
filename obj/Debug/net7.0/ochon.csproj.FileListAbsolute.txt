@@ -1,0 +1,14 @@
+C:\practica clase\ochon\bin\Debug\net7.0\ochon.exe
+C:\practica clase\ochon\bin\Debug\net7.0\ochon.deps.json
+C:\practica clase\ochon\bin\Debug\net7.0\ochon.runtimeconfig.json
+C:\practica clase\ochon\bin\Debug\net7.0\ochon.dll
+C:\practica clase\ochon\bin\Debug\net7.0\ochon.pdb
+C:\practica clase\ochon\obj\Debug\net7.0\ochon.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica clase\ochon\obj\Debug\net7.0\ochon.AssemblyInfoInputs.cache
+C:\practica clase\ochon\obj\Debug\net7.0\ochon.AssemblyInfo.cs
+C:\practica clase\ochon\obj\Debug\net7.0\ochon.csproj.CoreCompileInputs.cache
+C:\practica clase\ochon\obj\Debug\net7.0\ochon.dll
+C:\practica clase\ochon\obj\Debug\net7.0\refint\ochon.dll
+C:\practica clase\ochon\obj\Debug\net7.0\ochon.pdb
+C:\practica clase\ochon\obj\Debug\net7.0\ochon.genruntimeconfig.cache
+C:\practica clase\ochon\obj\Debug\net7.0\ref\ochon.dll
