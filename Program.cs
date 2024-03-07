@@ -1,8 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Erick estuvo aqui!");
-Console.WriteLine("Erick estuvo aqui!");
-Console.WriteLine("Erick estuvo aqui!");
-Console.WriteLine("Erick estuvo aqui!");
-Console.WriteLine("Erick estuvo aqui!");
-Console.WriteLine("Erick estuvo aqui!");
-Console.WriteLine("Erick estuvo aqui!");
+int myNumero = 8 + 8 ;
+
+Console.WriteLine(myNumero);
+Console.WriteLine("tu respuesta es XD");
